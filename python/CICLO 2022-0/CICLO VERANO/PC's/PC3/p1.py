@@ -1,0 +1,53 @@
+#1.
+
+from random import randint
+
+
+def imprimirMatriz(mat):
+    filas = len(mat)
+    col = len(mat[0])
+    for f in range(filas):
+        for c in range(col):
+            print("%7d" % (mat[f][c]), end="")
+        print()
+
+
+def llenarDatos(matriz):
+    filas = len(matriz)
+    col = len(matriz[0])
+    for f in range(filas):
+        for c in range(col):
+            matriz[f][c] = randint(1, 9)
+
+
+def dimensionarMatriz(filas, col):
+    matriz = []
+    for f in range(filas):
+        unaFila = [0]*col
+        matriz.append(unaFila)
+    return matriz
+
+
+def parImpar(m1):
+    filas = len(m1)
+    col = len(m1[0])
+    nuevaMatriz = dimensionarMatriz(filas, col)
+    for f in range(filas):
+        for c in range(col):
+            if m1[f][c] % 2 == 0:
+                nuevaMatriz[f][c] = 2
+            else:
+                nuevaMatriz[f][c] = 1
+    return nuevaMatriz
+
+
+# -------------------------------------
+filas = int(input("Filas: "))
+col = int(input("Columnas: "))
+# -------------dimensionamos la matriz
+m1 = dimensionarMatriz(filas, col)
+llenarDatos(m1)
+imprimirMatriz(m1)
+print()
+m2 = parImpar(m1)
+imprimirMatriz(m2)

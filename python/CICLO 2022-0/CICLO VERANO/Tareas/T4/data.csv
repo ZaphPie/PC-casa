@@ -1,0 +1,101 @@
+id,first_name,last_name,country,mom,dad,bestie
+A01,Rolfe,Stanyan,Belize,,,B01
+A02,Roxana,Hodges,Solomon Islands,,,A03
+A03,Beck,Crassweller,Vanuatu,,,D08
+A04,Dolley,Eilhart,Chad,,,A16
+A05,Jane,Mingasson,Pakistan,,,B05
+A06,Clarisse,Garmanson,United States,,,D10
+A07,Aleda,Arnholz,Gabon,,,B10
+A08,Camille,Tuminini,Cambodia,,,A20
+A09,Rhett,Minghetti,Namibia,,,A13
+A10,Aubrey,Rapson,Argentina,,,D05
+A11,Coraline,Grimes,Ethiopia,,,A13
+A12,Urbain,D'Arrigo,The Bahamas,,,B13
+A13,Dorrie,Posen,Qatar,,,C07
+A14,Ashlie,O'Fielly,Cyprus,,,C04
+A15,Remus,Cabrara,Panama,,,E09
+A16,Urbain,Normanville,Mali,,,A13
+A17,Ellwood,Slader,Venezuela,,,D09
+A18,Ellwood,Plumley,Costa Rica,,,C15
+A19,Mamie,Haw,Ethiopia,,,B14
+A20,Chandal,Jewkes,Syria,,,E07
+B01,Randy,Slader,Mozambique,A11,A17,A12
+B02,Ursa,Plumley,United Arab Emirates,A19,A18,E10
+B03,Lise,D'Arrigo,Lebanon,A09,A12,E15
+B04,Nikola,Rapson,Tanzania,A11,A10,A17
+B05,Temp,Arnholz,Israel,A14,A07,D03
+B06,Sidonia,Jewkes,Vatican City,A05,A20,A18
+B07,Aloise,Crassweller,Colombia,A20,A03,D15
+B08,Aloise,D'Arrigo,Morocco,A18,A12,A16
+B09,Luise,Garmanson,Samoa,A03,A06,D03
+B10,Washington,Slader,Mozambique,A02,A17,D10
+B11,Tate,Grimes,Somalia,A08,A11,D02
+B12,Shoshana,Haw,South Sudan,A10,A19,A04
+B13,Berke,Mingasson,Democratic Republic of the Congo,A11,A05,A18
+B14,Frannie,Slader,Denmark,A01,A17,E02
+B15,Kiersten,Rapson,Eritrea,A17,A10,E05
+B16,Neddy,Eilhart,Kuwait,A08,A04,B12
+B17,Locke,Haw,Ukraine,A17,A19,B05
+B18,Adan,Rapson,Iceland,A12,A10,A15
+B19,Lammond,Jewkes,Botswana,A04,A20,B14
+B20,Dorree,Plumley,Sao Tome and Principe,A06,A18,E03
+C01,Lammond,Garmanson,Armenia,B05,B09,C20
+C02,Pietra,Mingasson,South Korea,B08,B13,D01
+C03,Eugine,Mingasson,Monaco,B10,B13,C11
+C04,Eugine,Slader,Morocco,B11,B01,C20
+C05,Pietra,D'Arrigo,Andorra,B17,B08,A14
+C06,Beck,Mingasson,United States,B12,B13,B17
+C07,Amalia,Garmanson,Austria,B01,B09,B10
+C08,Morlee,D'Arrigo,Egypt,B16,B08,E05
+C09,Damita,Rapson,Egypt,B15,B18,E10
+C10,Timoteo,Plumley,Uzbekistan,B07,B20,D19
+C11,Temp,Rapson,Ukraine,B05,B18,A09
+C12,Perl,Haw,Estonia,B07,B12,C17
+C13,Chester,Slader,Kenya,B17,B14,D16
+C14,Kane,Rapson,Zambia,B17,B15,D13
+C15,Tate,Rapson,Barbados,B17,B18,B09
+C16,Adan,D'Arrigo,Antigua and Barbuda,B15,B03,D13
+C17,Darby,Slader,San Marino,B16,B14,D06
+C18,Luella,Crassweller,Cuba,B06,B07,A04
+C19,Harry,Plumley,Marshall Islands,B08,B02,C05
+C20,Korie,Jewkes,Rwanda,B04,B19,D19
+D01,Salmon,Slader,Madagascar,C17,C13,D07
+D02,Vernor,Slader,Romania,C11,C13,C01
+D03,Ham,Haw,Saint Kitts and Nevis,C02,C12,B17
+D04,Reece,Slader,Eritrea,C06,C04,A18
+D05,Tildy,Slader,Tuvalu,C10,C13,C01
+D06,Callie,Rapson,Democratic Republic of the Congo,C05,C14,A14
+D07,Brietta,Crassweller,Bhutan,C15,C18,B15
+D08,Locke,Jewkes,Vietnam,C06,C20,A05
+D09,Nathalia,Mingasson,Panama,C10,C02,C06
+D10,Stephine,Plumley,Slovakia,C14,C19,E18
+D11,Temp,Jewkes,Georgia,C02,C20,C13
+D12,Lammond,Slader,Peru,C14,C13,E03
+D13,Pietro,Mingasson,Haiti,C03,C02,E14
+D14,Niel,Garmanson,Portugal,C03,C07,B18
+D15,Frannie,Jewkes,Ecuador,C16,C20,E14
+D16,Luise,Rapson,Madagascar,C03,C11,A09
+D17,Dorrie,Plumley,Cameroon,C04,C10,C05
+D18,Glenda,Crassweller,Albania,C15,C18,B12
+D19,Parker,Rapson,Peru,C15,C09,C08
+D20,Roxana,Rapson,Philippines,C11,C09,C02
+E01,Korie,Garmanson,Slovakia,D13,D14,B13
+E02,Riane,Slader,Guinea-Bissau,D16,D04,E17
+E03,Zarla,Slader,Palau,D15,D05,E05
+E04,Pietra,Rapson,Jordan,D08,D16,B20
+E05,Ty,Slader,Cyprus,D03,D05,B07
+E06,Halli,Mingasson,Burkina Faso,D14,D09,A09
+E07,Neddy,Slader,Kuwait,D19,D02,D05
+E08,Elston,Slader,Bangladesh,D14,D05,C20
+E09,Coraline,Rapson,Albania,D04,D19,A12
+E10,Barry,Slader,Tunisia,D19,D04,A12
+E11,Laurette,Rapson,Samoa,D04,D06,C02
+E12,Elspeth,Rapson,Vietnam,D12,D16,D07
+E13,Damita,Slader,Slovenia,D10,D01,E07
+E14,Eugine,Slader,Algeria,D01,D02,E12
+E15,Deeyn,Jewkes,Germany,D07,D11,E09
+E16,Alexi,Mingasson,Singapore,D17,D09,A08
+E17,Glenda,Crassweller,Libya,D09,D07,C20
+E18,Iggie,Plumley,Morocco,D08,D10,B17
+E19,Timoteo,Rapson,Senegal,D15,D20,D08
+E20,Ashlie,Jewkes,Finland,D20,D08,C12

@@ -1,0 +1,3 @@
+Numero de pares: 11
+Numero de impares: 12
+Suma: 276

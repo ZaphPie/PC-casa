@@ -1,0 +1,1 @@
+#Para aplicar búsqueda binaria es necesario que los datos estén previamente ordenados
